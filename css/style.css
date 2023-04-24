@@ -10,6 +10,7 @@
     --primaryColor: black;
     --secondaryColor: white;
     --alternativeColor:gray;
+   --homeBg: rgba(123, 115, 115, .9);
     --borderColor:#6e6dd9;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
 }
