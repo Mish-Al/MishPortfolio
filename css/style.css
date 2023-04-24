@@ -1,0 +1,20 @@
+  @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+/* Universal selector */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* root */
+:root{
+    --primaryColor: black;
+    --secondaryColor: white;
+    --alternativeColor:gray;
+   --homeBg: rgba(123, 115, 115, .9);
+    --borderColor:#6e6dd9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+}
+/* Logo */
+#logo {
+    width: 5rem;
+}
